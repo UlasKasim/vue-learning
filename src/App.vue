@@ -1,5 +1,5 @@
 <script setup>
-import ExampleComponent from "./components/example_components/FetchingData.vue";
+import ExampleComponent from "./gui/cells/Cells.vue";
 </script>
 
 <template>
